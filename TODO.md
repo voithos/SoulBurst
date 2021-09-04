@@ -1,7 +1,5 @@
 # TODOs
 
-- environment assets
-- logic for environment asset movement / loading / unloading
 - obstacle assets
 - obstacle collision logic
 - death / explosion animation
@@ -13,12 +11,13 @@
 
 ## Polish
 
-- tweak lighting + post-process
-- toon shader?
-- spacecraft assets
 - music
 - sound effects
 - camera lag not working
 
 ## Done
 - improved roll/pitch animation
+- environment assets
+- logic for environment asset movement / loading / unloading
+- tweak lighting + post-process
+- spacecraft assets
