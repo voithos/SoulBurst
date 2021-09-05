@@ -13,7 +13,8 @@
 
 - music
 - sound effects
-- camera lag not working
+- fps not great
+- camera follows too far back when going fast
 
 ## Done
 - improved roll/pitch animation
@@ -21,3 +22,5 @@
 - logic for environment asset movement / loading / unloading
 - tweak lighting + post-process
 - spacecraft assets
+- camera lag not working
+- camera follow stutters when there's a frame dip
