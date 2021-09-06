@@ -5,9 +5,15 @@
 - death / explosion animation
 - boost assets
 - boost logic + gradual slow-down logic
-- logic for "fly to space" threshold
-- animation for "fly to space"
-- level reset logic
+
+Approach A:
+  - logic for "escape level" threshold
+  - animation for "escape level"
+  - level reset logic
+  - logic for increasing difficulty over time?
+
+Approach B:
+  - logic for "distance traveled" before dying
 
 ## Polish
 
@@ -24,3 +30,4 @@
 - spacecraft assets
 - camera lag not working
 - camera follow stutters when there's a frame dip
+- score
