@@ -1,26 +1,15 @@
 # TODOs
 
-- obstacle assets
-- obstacle collision logic
-- death / explosion animation
+- floating obstacles
 - boost assets
-- boost logic + gradual slow-down logic
-
-Approach A:
-  - logic for "escape level" threshold
-  - animation for "escape level"
-  - level reset logic
-  - logic for increasing difficulty over time?
-
-Approach B:
-  - logic for "distance traveled" before dying
-
-## Polish
-
+- boost logic
+- boost effect
+- screen shake when boosting
+- level transitions
 - music
 - sound effects
-- fps not great
 - camera follows too far back when going fast
+- fps not great
 
 ## Done
 - improved roll/pitch animation
@@ -31,3 +20,6 @@ Approach B:
 - camera lag not working
 - camera follow stutters when there's a frame dip
 - score
+- obstacle assets
+- obstacle collision logic
+- death / explosion animation
