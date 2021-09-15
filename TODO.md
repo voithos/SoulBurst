@@ -1,14 +1,12 @@
 # TODOs
 
-- floating obstacles
 - boost assets
 - boost logic
-- boost effect
+- speed lines when boosting
+- boost sfx
 - screen shake when boosting
-- level transitions
+- screen shake when exploding
 - music
-- sound effects
-- camera follows too far back when going fast
 - fps not great
 
 ## Done
@@ -23,3 +21,7 @@
 - obstacle assets
 - obstacle collision logic
 - death / explosion animation
+- floating obstacles
+- level transitions
+- sound effects
+- camera follows too far back when going fast
