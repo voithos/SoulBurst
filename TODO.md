@@ -6,8 +6,8 @@
 - boost sfx
 - screen shake when boosting
 - screen shake when exploding
-- music
 - fps not great
+- main menu
 
 ## Done
 - improved roll/pitch animation
@@ -25,3 +25,5 @@
 - level transitions
 - sound effects
 - camera follows too far back when going fast
+- music
+- "Press R to restart" message
