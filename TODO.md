@@ -3,9 +3,6 @@
 - boost assets
 - boost logic
 - speed lines when boosting
-- boost sfx
-- screen shake when boosting
-- screen shake when exploding
 - fps not great
 - main menu
 
@@ -27,3 +24,6 @@
 - camera follows too far back when going fast
 - music
 - "Press R to restart" message
+- boost sfx
+- screen shake when boosting
+- screen shake when exploding
