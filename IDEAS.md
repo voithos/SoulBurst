@@ -24,3 +24,7 @@ Story of trying to escape to space
 - Some sort of space craft game, where you collect items or move through checkpoints
 - You speed up as you do so
 - Goal is to speed up enough to warp to space
+
+## Final game
+
+Original idea morphed into essentially an infinite-runner.
