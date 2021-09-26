@@ -1,7 +1,5 @@
 # TODOs
 
-- boost assets
-- booster collision logic
 - fps not great
 - main menu
 
@@ -27,3 +25,5 @@
 - screen shake when boosting
 - screen shake when exploding
 - speed lines when boosting
+- boost assets
+- booster collision logic
