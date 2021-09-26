@@ -1,7 +1,6 @@
 # TODOs
 
 - fps not great
-- main menu
 
 ## Done
 - improved roll/pitch animation
@@ -27,3 +26,4 @@
 - speed lines when boosting
 - boost assets
 - booster collision logic
+- main menu
