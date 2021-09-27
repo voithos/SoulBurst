@@ -2,5 +2,10 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{0004E154-08D7-F984-2C42-70C206F3D59F}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"WindowsNoEditor",
+		"MacNoEditor"
+	]
 }
