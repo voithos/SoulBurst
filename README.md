@@ -2,7 +2,7 @@
 
 ![SoulBurst](https://raw.github.com/voithos/SoulBurst/main/SoulBurst.png)
 
-Escape the lost city.
+[Escape the lost city](https://voithos.itch.io/soulburst).
 
 SoulBurst is an "infinite flyer" prototype built solo in Unreal Engine. Fly
 through a cyber city at high speeds, burst through boosters to gain bonus
